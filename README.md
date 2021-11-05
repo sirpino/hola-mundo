@@ -4,7 +4,11 @@ bueno empezando con esto, vamos a ver que hacemos
 bueno esto
 
 ────────▄█▀▄
+
 ──────▄██▀▀▀▀▄
+
 ────▄███▀▀▀▀▀▀▀▄
+
 ──▄████▀▀▀▀▀▀▀▀▀▀▄
+
 ▄█████▀▀▀▀▀▀▀▀▀▀▀▀▀▄
